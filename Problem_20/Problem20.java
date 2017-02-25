@@ -1,4 +1,4 @@
-import java.math.BigInteger;//The lattice path problem can be solved by using combination of (m+n n)
+import java.math.BigInteger;
 class Problem20
 {
 
