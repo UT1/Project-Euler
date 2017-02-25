@@ -37,7 +37,10 @@ static int factors(long n)
 }
   public static void main(String[] args)
   {
+<<<<<<< HEAD:Problem_12/Problem12.java
     double st=java.lang.System.currentTimeMillis();
+=======
+>>>>>>> origin/master:Problem_12/Problem12.java
     prime[0]=2;
     prime[1]=3;
     int i=2,c=0,k,j;
@@ -71,7 +74,10 @@ long n=0L;
     }
 
 System.out.println("Answer is "+n+" with "+fac+" factors.");
+<<<<<<< HEAD:Problem_12/Problem12.java
   double fr=java.lang.System.currentTimeMillis();
   System.out.println("it took "+(fr-st)/1000+"s");
+=======
+>>>>>>> origin/master:Problem_12/Problem12.java
   }
 }
