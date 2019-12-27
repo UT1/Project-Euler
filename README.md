@@ -49,7 +49,7 @@ ScoreCard
 | Problem 39  | Done          |
 | Problem 40  | Done          |
 | Problem 41  | Done          |
-| Problem 42  | Not Attempted |
+| Problem 42  | Done          |
 | Problem 43  | Not Attempted |
 | Problem 44  | Not Attempted |
 | Problem 45  | Not Attempted |
