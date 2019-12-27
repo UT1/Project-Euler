@@ -50,7 +50,7 @@ ScoreCard
 | Problem 40  | Done          |
 | Problem 41  | Done          |
 | Problem 42  | Done          |
-| Problem 43  | Not Attempted |
+| Problem 43  | Done          |
 | Problem 44  | Not Attempted |
 | Problem 45  | Not Attempted |
 | Problem 46  | Not Attempted |
