@@ -2,8 +2,9 @@
 Solutions to problems on ProjectEuler.net
 Please refer to the archive problems on ProjectEuler.net
 Don't miss the aura of coding by copying the codes. 
-Solved So Far
+Last Solved : 42
 
+ScoreCard
 
 | Euler       | Status        |
 |-------------|---------------|
@@ -47,7 +48,7 @@ Solved So Far
 | Problem 38  | Not Attempted |
 | Problem 39  | Done          |
 | Problem 40  | Done          |
-| Problem 41  | Not Attempted |
+| Problem 41  | Done          |
 | Problem 42  | Not Attempted |
 | Problem 43  | Not Attempted |
 | Problem 44  | Not Attempted |
